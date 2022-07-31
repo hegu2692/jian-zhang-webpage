@@ -12,6 +12,8 @@ doi: 10.3389/fonc.2021.640272
 publication: Frontiers in Oncology
 draft: false
 featured: false
+projects:
+  - "2021"
 image:
   filename: featured
   focal_point: Smart
