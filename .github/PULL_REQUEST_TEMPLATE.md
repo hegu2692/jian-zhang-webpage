@@ -1,35 +1,11 @@
-<!--
-Thanks for submitting a pull request!
+### Purpose
 
-Please make sure you've read and understood our contributing guidelines;
-https://github.com/netlify/victor-hugo/blob/master/CONTRIBUTING.md
+Describe the purpose of this change. If there is an existing issue that is resolved by this pull request, please reference it in the form `Fixes #1234` where 1234 is the relevant issue number.
 
-If this is a bug fix, make sure your description includes "fixes #xxxx", or
-"closes #xxxx", where #xxxx is the issue number.
+### Screenshots
 
-Please provide enough information so that others can review your pull request.
-The first three fields are mandatory:
--->
+If this is a GUI change, try to include screenshots of the change. If not, please delete this section.
 
-**- Summary**
+### Documentation
 
-<!--
-Explain the **motivation** for making this change.
-What existing problem does the pull request solve?
--->
-
-**- Test plan**
-
-<!--
-Demonstrate the code is solid.
-Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI.
--->
-
-**- Description for the changelog**
-
-<!--
-Write a short (one line) summary that describes the changes in this
-pull request for inclusion in the changelog:
--->
-
-**- A picture of a cute animal (not mandatory but encouraged)**
+If this is an enhancement, add a link here to the corresponding pull request on https://github.com/sourcethemes/academic-www or describe the documentation changes necessary.
