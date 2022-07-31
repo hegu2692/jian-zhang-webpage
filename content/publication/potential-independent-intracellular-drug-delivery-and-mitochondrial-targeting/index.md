@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Liu YZhang JTu Y et al.
-doi: Liu YZhang JTu Y et al.
+doi: 10.1021/acsnano.1c09456
 publication_short: ACS Nano
 draft: false
 featured: false
