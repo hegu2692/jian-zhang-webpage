@@ -1,7 +1,7 @@
 ---
 title: Jian Zhang
 role: Surgeon
-avatar_filename: logo.png
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
