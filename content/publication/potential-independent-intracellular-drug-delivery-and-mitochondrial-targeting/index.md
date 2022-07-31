@@ -2,8 +2,7 @@
 title: Potential-Independent Intracellular Drug Delivery and Mitochondrial Targeting
 publication_types:
   - "2"
-authors:
-  - Liu YZhang JTu Y et al.
+authors: []
 doi: 10.1021/acsnano.1c09456
 publication_short: ACS Nano
 draft: false
