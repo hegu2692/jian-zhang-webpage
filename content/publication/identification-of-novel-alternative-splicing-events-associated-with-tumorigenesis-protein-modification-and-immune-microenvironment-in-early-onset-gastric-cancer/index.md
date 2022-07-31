@@ -3,17 +3,17 @@ title: Identification of Novel Alternative Splicing Events Associated With
   Tumorigenesis, Protein Modification, and Immune Microenvironment in
   Early-Onset Gastric Cancer
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Zhang J
   - Goel A
   - Zhu L
 doi: 10.3389/fonc.2021.640272
 publication: Frontiers in Oncology
+publication_short: "2021"
 draft: false
 featured: false
-projects:
-  - "2021"
+projects: []
 image:
   filename: featured
   focal_point: Smart
