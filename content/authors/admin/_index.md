@@ -5,9 +5,10 @@ avatar_filename: zhang-jian.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Gastric Cancer
+  - Colon Cancer
+  - Hepatocellular Carcinoma
+  - Epigenomics
 social:
   - icon: graduation-cap
     icon_pack: fas
