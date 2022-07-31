@@ -22,4 +22,4 @@ design:
       - 20px
       - "0"
 ---
-## 👋 Welcome to the Academic Template
+## 👋 Welcome to the Jian Group
