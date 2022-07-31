@@ -1,6 +1,21 @@
+# IDE specific
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
 node_modules/
-dist/
-site/data/webpack.json
-/npm-debug.log
-yarn-error.log
-.netlify/
+
+# Hugo
+.hugo_build.lock
+go.sum
+resources/
+public/
+
+# Mac
+.DS_Store
+
+# Test
+test/go.sum
