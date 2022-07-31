@@ -4,6 +4,10 @@ title: Identification of Novel Alternative Splicing Events Associated With
   Early-Onset Gastric Cancer
 publication_types:
   - "0"
+authors:
+  - Zhang J
+  - Goel A
+  - Zhu L
 doi: 10.3389/fonc.2021.640272
 publication: Frontiers in Oncology
 draft: false
