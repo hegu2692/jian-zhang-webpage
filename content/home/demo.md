@@ -6,14 +6,14 @@ widget: blank
 widget_id: Main page
 headless: true
 weight: 15
-title: Academic Template
+title: Jian Group Webpage
 subtitle: ""
 active: true
 design:
   columns: "1"
   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
+    gradient_start: "#ffffff"
+    gradient_end: "#ffffff"
     text_color_light: true
   spacing:
     padding:
@@ -22,4 +22,4 @@ design:
       - 20px
       - "0"
 ---
-## 👋 Welcome to the Jian Group
+## 👋 Welcome to Jian Group
