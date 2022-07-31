@@ -3,12 +3,13 @@ title: Potential-Independent Intracellular Drug Delivery and Mitochondrial Targe
 publication_types:
   - "2"
 authors:
-  - 22.	Y Liu
+  - Y Liu
   - Zhang J
   - Y Tu
   - L Zhu
 doi: 10.1021/acsnano.1c09456
-publication_short: ACS Nano
+publication: ACS Nano
+publication_short: "2022"
 draft: false
 featured: false
 projects:
